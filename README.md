@@ -1,0 +1,1 @@
+An android app that sends GPS coordinates through a socket connection to a winforms app on a local network. You can sort of "hack" your way to make it work on the internet through a vpn tunnel like [ZeroTier](https://www.zerotier.com/).
